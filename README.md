@@ -40,44 +40,11 @@ Or you can do it manually through typing out the link like this:
 | Icon Name     | Icon ID       | Icon Picture  |
 | ------------- | ------------- | ------------- |
 |  ableton      |       1       |               |
-|  adonisjs     |       2       |               |
-|  ae           |       3       |               |
+|  adonisjs     |       2       | ![Adonisjs](https://github.com/DrMixxer/SimpleIcons/assets/89403966/83143135-76f7-4e4e-ab74-db86d08906c1) |
+|  ae           |       3       | ![AE](https://github.com/DrMixxer/SimpleIcons/assets/89403966/4910ff19-8a9f-402d-bca9-3716168e8ff6)  |
 |  alpinejs     |       4       |               |
 |  androidstudio|       5       |               |
 |  angular      |       6       |               |
-|  arduino      |       7       |               |
-|  astro        |       8       |               |
-|  atom         |       9       |               |
-|  autocad      |       10      |               |
-|  audacity     |       11      |               |
-|  aws          |       12      |               |
-|  babel        |       13      |               |
-|  bash         |       14      |               |
-|  blender      |       15      |               |
-|  c            |       16      |               |
-|  csharp       |       17      |               |
-|  cpp          |       18      |               |
-|  css          |       19      |               |
-|  cloudflare   |       20      |               |
-|  coffeescript |       21      |               |
-|  dart         |       22      |               |
-|  discord      |       23      |               |
-|  django       |       24      |               |
-|  docker       |       25      |               |
-|  eclipse      |       26      |               |
-|  electron     |       27      |               |
-|  elixir       |       28      |               |
-|  emacs        |       29      |               |
-|  express      |       30      |               |
-|  fastapi      |       31      |               |
-|  figma        |       32      |               |
-|  firebase     |       33      |               |
-|  flask        |       34      |               |
-
-
-
-
-
 
 # 💸 Support SimpleIcons
 You can support the SimpleIcons Project by either using the BuyMeACoffee(coming soon) or donating through the SimpleIcons Store.

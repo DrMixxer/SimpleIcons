@@ -40,9 +40,9 @@ Or you can do it manually through typing out the link like this:
 | Icon Name     | Icon ID       | Icon Picture  |
 | ------------- | ------------- | ------------- |
 |  ableton      |       1       |               |
-|  adonis       |       2       |               |
+|  adonisjs     |       2       |               |
 |  ae           |       3       |               |
-|  aiscript     |       4       |               |
+|  alpinejs     |       4       |               |
 |  androidstudio|       5       |               |
 |  angular      |       6       |               |
 |  arduino      |       7       |               |

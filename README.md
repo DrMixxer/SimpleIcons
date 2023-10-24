@@ -3,8 +3,11 @@ SimpleIcons which you can use anywhere for any purpose for FREE!
 
 # Docs
 • [Examples](https://github.com/DrMixxer/SimpleIcons#Examples)
+
 • [Usage](https://github.com/DrMixxer/SimpleIcons#Usage)
+
 • [Icons](https://github.com/DrMixxer/SimpleIcons#Icons)
+
 • [Examples](https://github.com/DrMixxer/SimpleIcons#Examples)
 
 

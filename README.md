@@ -41,7 +41,7 @@ Or you can do it manually through typing out the link like this:
 | ------------- | ------------- | ------------- |
 |  ableton      |       1       |               |
 |  adonisjs     |       2       | ![Adonisjs](https://github.com/DrMixxer/SimpleIcons/assets/89403966/83143135-76f7-4e4e-ab74-db86d08906c1) |
-|  ae           |       3       | ![AE](https://github.com/DrMixxer/SimpleIcons/assets/89403966/4910ff19-8a9f-402d-bca9-3716168e8ff6)  |
+|  after effects|       3       | ![AE](https://github.com/DrMixxer/SimpleIcons/assets/89403966/4910ff19-8a9f-402d-bca9-3716168e8ff6)  |
 |  alpinejs     |       4       |               |
 |  androidstudio|       5       |               |
 |  angular      |       6       |               |

@@ -41,7 +41,7 @@ Or you can do it manually through typing out the link like this:
 | ------------- | ------------- | ------------- |
 |  ableton      |       1       |               |
 |  adonisjs     |       2       | <img src="./images/icons/Adonisjs.svg" width="48">|
-|  after effects|       3       | <img src="./images/icons/AE.svg" width="48"> |
+|  aftereffects |       3       | <img src="./images/icons/AE.svg" width="48"> |
 |  alpinejs     |       4       |               |
 |  androidstudio|       5       | <img src="./images/icons/AndroidStudio.svg" width="48"> | 
 |  angular      |       6       |               |

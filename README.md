@@ -19,17 +19,23 @@ You can use SimpleIcons in your github readme, portfolio, website and more.
 You can specify which icons either via the icon link gen on site which can be found here: 
 [Gen](https://)
 
-## Specifying icons Manually 
+## Rules
+
+### Specifying icons Manually 
 You can do it like this - by adding the icon id or name after the icontypes=
 so like this for example: ```https://example.com/icons?=icontypes=js,ts,css```
 
-## Icon Themes
+### Icon Themes
 You can do it like this - by adding theme= (light or dark) 
 so like this for example: ```https://example.com/icons?=icontypes=js,ts,css&theme=light```
 
-
 Or you can do it manually through typing out the link like this: 
 [!SimpleIcons](https://websiteexample.com/icons/
+
+### Icon Hyperlink Rule 
+
+To make the icon hyperlink to the site simply add the rule hyperlink=true so for example: 
+```https://example.com/icons?=icontypes=js,ts,css&hyperlink=true```
 
 # Icons 
 

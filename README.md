@@ -43,14 +43,13 @@ To make the icon hyperlink to the site simply add the rule hyperlink=true so for
 
 ##### NOTE: IM STILL MAKING ICONS SO NOT ALL ARE DONE.
 
-| Icon Name     | Icon ID       | Icon Picture  |
-| ------------- | ------------- | ------------- |
-|  ableton      |       1       |               |
-|  adonisjs     |       2       | <img src="./images/icons/Adonisjs.svg" width="48">|
-|  aftereffects |       3       | <img src="./images/icons/AE.svg" width="48"> |
-|  alpinejs     |       4       |               |
-|  androidstudio|       5       | <img src="./images/icons/AndroidStudio.svg" width="48"> | 
-|  angular      |       6       |               |
+| Icon Name     |  Icon Picture  |
+| ------------- | -------------- |
+|  adonisjs     | <img src="./images/icons/Adonisjs.svg" width="48"> |
+|  aftereffects | <img src="./images/icons/AE.svg" width="48"> |
+|  alpinejs     |               |
+|  androidstudio| <img src="./images/icons/AndroidStudio.svg" width="48"> | 
+|  angular      |              |
 
 # 💸 Support SimpleIcons
 You can support the SimpleIcons Project by either using the BuyMeACoffee(coming soon) or donating through the SimpleIcons Store.
@@ -58,13 +57,17 @@ You can support the SimpleIcons Project by either using the BuyMeACoffee(coming 
 # 📜 License
 We use the GPL v3 license.
 What we Allow: 
-✅ Usage of icons for personal use(Portfolios, Websites and more) - Must Credit the project/ Add a link
-✅ Usage of icons for commercial usage - Must Credit the project / add a link - You cant make a profit on our icons unless you contact me first - NonProfits
-✅ Usage of icons for non-profits/charities - Must credit the project / add a link
+**✅ Usage of icons for personal use(Portfolios, Websites and more) - Must Credit the project/ Add a link**
+
+**✅ Usage of icons for commercial usage - Must Credit the project / add a link - You cant make a profit on our icons unless you contact me first - NonProfits**
+
+**✅ Usage of icons for non-profits/charities - Must credit the project / add a link**
 
 What we Dont allow: 
-❌ Usage of our code - You need to ask first
-❌ Usage of our icons for profit or sale 
-❌ Using the icons for illegal purposes
+**❌ Usage of our code - You need to ask first**  
+
+**❌ Usage of our icons for profit or sale** 
+
+**❌ Using the icons for illegal purposes**
 
 
